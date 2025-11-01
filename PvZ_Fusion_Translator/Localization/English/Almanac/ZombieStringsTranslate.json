@@ -422,8 +422,8 @@
         },
         {
             "theZombieType": 102,
-            "name": "Explod-o-shooter Zombie",
-            "introduce": "<align=justified><size=36><color=black>Explod-o-shooter Zombie loves listening to \"Cherry Bomb\" by The Runaways, which might explain his fiery passion. However, no one knows how he learned to ignite fireworks with his mouth.</color>",
+            "name": "Explode-o-shooter Zombie",
+            "introduce": "<align=justified><size=36><color=black>Explode-o-shooter Zombie loves listening to \"Cherry Bomb\" by The Runaways, which might explain his fiery passion. However, no one knows how he learned to ignite fireworks with his mouth.</color>",
             "info": "<size=36>Shoots explosive cherries to attack your plants.\n\n<color=black>Damage: </color><color=#4B0082>1000/10s</color>\n<color=black>Toughness: </color><color=#4B0082>500</color>"
         },
         {
@@ -482,7 +482,7 @@
         },
         {
             "theZombieType": 112,
-            "name": "Explod-o-pult Zombie",
+            "name": "Explode-o-pult Zombie",
             "introduce": "<align=justified><size=36><color=black>Warning: If you see him running low on basketballs, it's already too late! His explosive shots aren’t just for scoring points—they’re for total chaos! Better start running!</color>",
             "info": "<size=36>Throws explosive basketballs to destroy your defenses!\n\n<color=black>Damage: </color><color=#4B0082>60/3s (basketballs), 1000/3s (explosive cherry basketballs)</color>\n<color=black>Toughness: </color><color=#4B0082>1350</color>\n<color=black>Traits: </color><color=#4B0082>Throws 5 basketballs, then launches explosive cherry basketballs (has 20 in total). Explosions deal 100 damage to Umbrella plants.</color>"
         },
@@ -650,8 +650,8 @@
         },
         {
             "theZombieType": 214,
-            "name": "Gatling Explod-o-rider Zombie",
-            "introduce": "<align=justified><size=36><color=black>Gatling Explod-o-rider Zombie always wakes up in a terrible mood — especially when a whale riding colleague drags him to work. Fueled by rage, he's ready to blow away any plants in his path before heading back for a nap.</color>",
+            "name": "Gatling Explode-o-rider Zombie",
+            "introduce": "<align=justified><size=36><color=black>Gatling Explode-o-rider Zombie always wakes up in a terrible mood — especially when a whale riding colleague drags him to work. Fueled by rage, he's ready to blow away any plants in his path before heading back for a nap.</color>",
             "info": "<size=36>Jumps into and demolishes from behind your defense by shooting explosive cherries!\n\n<color=black>Damage: </color><color=#4B0082>1000</color>\n<color=black>Toughness: </color><color=#4B0082>1500</color>\n<color=black>Traits: </color><color=#4B0082>Starts to shoot 4 explosive cherries every 1.5s, 3s after entering your lawn.</color>"
         },
         {

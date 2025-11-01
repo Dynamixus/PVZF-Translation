@@ -606,7 +606,7 @@
             "seedType": 917,
             "name": "Enchantress-shroom",
             "introduce": "<align=justified><size=36><color=black>The subjects of the Empress-shroom are captivated by the Enchantress-shroom's mysterious power. \"She's not just my advisor; she's the force that keeps our kingdom thriving. Her magic isn't just powerful—it's explosive\", the Empress-shroom declared. In truth, the Enchantress-shroom simply delights in blowing up any unruly dissenters who dare resist her charm.</color>",
-            "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explod-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
+            "info": "<size=36>Summons exclusively explosive zombies to fight for you!\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable With Empress-shroom's Modifier</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> The same as Empress-shroom, but only summons Cherryshooter Newspaper Zombie/Zombarine/Gatling Cherry Newspaper/Gatling Explode-o-rider zombies.\n<color=black>•</color> Benefits from Empress-shroom modifiers.\n<color=black>•</color> Immediately summons a zombie when an Empress-shroom dies in a 3×3 range.</color>",
             "cost": "<size=36>Conversion Formula: <color=#8B0000> Hypno-shroom <-> Cherry Bomb</color>"
         },
         {
@@ -823,7 +823,7 @@
             "seedType": 948,
             "name": "Infernal Sparkwood",
             "introduce": "<align=justified><size=36><color=black>Infernal Sparkwood may burn brighter than any flame, but it was futuristic cuisine that truly lit up the competition. At the Culinary Clash's grand finale, he shared his trophy with Astro-nut, whose time-travel snacks left the judges starstruck. Even the judge McCornics called it \"out of this world.\"</color>",
-            "info": "<size=36>A Torchwood blazing with Starfruit flames, boasting extreme ignition power and granting star projectiles homing capabilities.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Infernal Squashwood</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Infernal Squashwood.\n<color=black>•</color> No longer spawns Spicy Squashes. Every 51 projectiles affected spawns a Spicy Starfruit in front.\n<color=black>•</color> Ignites star projectiles (except spicy stars) for ×2 damage, but with original traits removed (except Magnetar stars), granting global homing with anti-air priority.\n<color=black>•</color> Explosive cherries become Explod-o-Stars: ×2 damage, global homing with anti-air priority.\n<color=black>•</color> Affects other projectiles like Infernal Squashwood. Triggers Jalapeno effect on death.</color>",
+            "info": "<size=36>A Torchwood blazing with Starfruit flames, boasting extreme ignition power and granting star projectiles homing capabilities.\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable with Infernal Squashwood</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Subspecies of Infernal Squashwood.\n<color=black>•</color> No longer spawns Spicy Squashes. Every 51 projectiles affected spawns a Spicy Starfruit in front.\n<color=black>•</color> Ignites star projectiles (except spicy stars) for ×2 damage, but with original traits removed (except Magnetar stars), granting global homing with anti-air priority.\n<color=black>•</color> Explosive cherries become Explode-o-Stars: ×2 damage, global homing with anti-air priority.\n<color=black>•</color> Affects other projectiles like Infernal Squashwood. Triggers Jalapeno effect on death.</color>",
             "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Squash <-> Starfruit</color>"
         },
         {
@@ -1745,8 +1745,8 @@
         },
         {
             "seedType": 1121,
-            "name": "Corn-pult",
-            "introduce": "<align=justified><size=36><color=black>Corn-pult is often seen frowning. When asked why, he says nothing. \"People keep asking me if Buttered Corn is sticky or sweet,\" Corn-pult sighs. \"Why ask me? I don't eat it. Only the zombies would know.\"</color>",
+            "name": "Cob-pult",
+            "introduce": "<align=justified><size=36><color=black>Cob-pult is often seen frowning. When asked why, he says nothing. \"People keep asking me if Buttered Corn is sticky or sweet,\" Cob-pult sighs. \"Why ask me? I don't eat it. Only the zombies would know.\"</color>",
             "info": "<size=36>Throws large corns at the zombies; sometimes they're buttered.\n\n<color=black>Damage: </color><color=#8B0000>120/3s</color>\n<color=black>Special: </color><color=#8B0000>Has a 1/4 chance to throw a Buttered Corn with 140 damage, immobilizing the main target for 4 seconds and zombies in the splash range for (4 / total splash spread) seconds (minimum of 0.5).</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Melon-pult + Kernel-pult</color>"
         },
@@ -2032,15 +2032,15 @@
         },
         {
             "seedType": 1162,
-            "name": "Explod-o-tato Mine",
-            "introduce": "<align=justified><size=36><color=black>Explod-o-tato Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
+            "name": "Explode-o-tato Mine",
+            "introduce": "<align=justified><size=36><color=black>Explode-o-tato Mine is a top chef, and his \"hash cherries\" and \"potato jam\" are highly praised in the plant world. If he runs out of ingredients, he will cheerfully say: \"I'll go buy some.\"</color>",
             "info": "<size=36>Splits into 8 Potato Mines in surrounding tiles.\n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns Potato Mines that only need 5s to arm themselves in a 3×3 range upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Cherry Bomb</color>"
         },
         {
             "seedType": 1163,
             "name": "Chili Mine",
-            "introduce": "<align=justified><size=36><color=black>Chili Mine is a capable assistant to Explod-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chili Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
+            "introduce": "<align=justified><size=36><color=black>Chili Mine is a capable assistant to Explode-o-tato Mine, but most of her dishes are given low ratings by customers. \"What's going on—\" Chili Mine feels really guilty but doesn't know why. The truth is, she is not sensitive to spicy flavors and always adds too much chili.</color>",
             "info": "<size=36>Splits into 7 Potato Mines in her lane. \n\n<color=black>Damage: </color><color=#8B0000>1800</color>\n<color=black>Special: </color><color=#8B0000>Spawns up to 7 Potato Mines that only need 5s to arm themselves in her lane upon defeat.</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Potato Mine + Jalapeno</color>"
         },
