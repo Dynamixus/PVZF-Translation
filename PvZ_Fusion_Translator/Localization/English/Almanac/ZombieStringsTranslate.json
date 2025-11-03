@@ -68,21 +68,21 @@
         },
         {
             "theZombieType": 11,
-            "name": "Ducky Tube Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>只有特定的僵尸才能成为鸭子救生圈僵尸，不是每只僵尸都能胜任。有些救生圈有点漏气，他们却处理不了，脱身后永远放弃了对脑子的渴求。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
+            "name": "Ducky Tube Zombie",
+            "introduce": "<align=justified><size=36><color=black>It takes a certain kind of zombie to be a Ducky Tuber. Not every zombie can handle it. Some crack. They can't take it. They walk away and give up on brains forever.</color>",
+            "info": "<size=36>Can swim in water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>270</color>"
         },
         {
             "theZombieType": 12,
-            "name": "Conehead Ducky Tube Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>都说差生文具多，但是路障鸭子并不这么认为，毕竟他不想承认他是个差生。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
+            "name": "Ducky Tube Conehead Zombie",
+            "introduce": "<align=justified><size=36><color=black>They say bad students always have fancy stationery, but Ducky Tube Conehead doesn't agree. After all, he refuses to admit he's one of them.</color>",
+            "info": "<size=36>Can swim in water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 370 (Type 1)</color>"
         },
         {
             "theZombieType": 13,
-            "name": "Buckethead Ducky Tube Zombie NOT IN GAME",
-            "introduce": "<align=justified><size=36><color=black>铁桶鸭子本不想带上那个漏气的游泳圈的，但是没办法，谁叫他戴着那个容易生锈的铁桶呢。</color>",
-            "info": "<size=36>可以在水里移动。\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
+            "name": "Ducky Tube Buckethead Zombie",
+            "introduce": "<align=justified><size=36><color=black>Ducky Tube Buckethead never wanted to wear that leaky float ring… but what can he do? That rusty bucket on his head isn't exactly waterproof.</color>",
+            "info": "<size=36>Can swim in water lanes.\n\n<color=black>Toughness: </color><color=#4B0082>270 + 1100 (Type 1)</color>"
         },
         {
             "theZombieType": 14,
