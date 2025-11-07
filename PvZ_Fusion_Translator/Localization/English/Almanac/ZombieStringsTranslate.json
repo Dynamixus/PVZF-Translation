@@ -308,8 +308,8 @@
         },
         {
             "theZombieType": 53,
-            "name": "Frost Legion Floating Disk",
-            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Floating Disk spends half an hour clearing snow and ice — and dragging out the Snowfurs hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
+            "name": "Frost Legion Freezer Disc",
+            "introduce": "<align=justified><size=36><color=black>Before every liftoff, the crew of the Freezer Disc spends half an hour clearing snow and ice — and dragging out the Snowfurs hiding in the corners. \"Getting this frozen lump off the ground eats up a ridiculous amount of fuel,\" the pilot grumbles.</color>",
             "info": "<size=36>It’s snowing! This chilly guest drifts in with flurries, silences plants, and leaves with backup.\n\n<color=black>Toughness: </color><color=#4B0082>720</color>\n<color=black>Traits: </color><color=#4B0082>Immune to Blover. Creates snowflakes while moving, silencing plants below. Slows down over time — when speed reaches zero, reverses direction. Upon exit, summons a Frost Legion Squad: one each of Shieldbearer, Snowball Launcher, and Trident Thrower Zombies.</color>"
         },
         {

@@ -172,7 +172,7 @@
             "seedType": 24,
             "name": "Pumpkin",
             "introduce": "<align=justified><size=36><color=black>Pumpkin had just wrapped up his part-time gig. \"Honestly, it was a pretty fun experience,\" he chuckled. \"But can someone explain why they kept stuffing candy and candles inside me?\"</color></size>",
-            "info": "<size=36>Pumpkins protect plants that are within their shells.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Pumpkin and subsequent fusions prevent splash damage from explosive cherries at difficulty 4 or lower. Use a Pumpkin seed packet on Pumpkin and his fusions with less than 2/3 Toughness to restore HP to full.</color>\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Shift key while fusing to forcibly fuse with Pumpkin. (with Better Fusion Cassidy mod, included by default)</color></size>",
+            "info": "<size=36>Pumpkins protect plants that are within their shells.\n\n<color=black>Toughness: </color><color=#8B0000>4000</color>\n<color=black>Special: </color><color=#8B0000>Pumpkin and subsequent fusions prevent splash damage from explosive cherries at difficulty 4 or lower. Use a Pumpkin seed packet on Pumpkin and his fusions with less than 2/3 Toughness to restore HP to full.</color>\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Shift key while fusing to forcibly fuse with Pumpkin. (requires BetterFusionSuite mod, included by default)</color></size>",
             "cost": "<size=36>Cost: <color=#8B0000>125</color>\nRecharge: <color=#8B0000>30s</color></size>"
         },
         {
@@ -193,7 +193,7 @@
             "seedType": 27,
             "name": "Flower Pot",
             "introduce": "<align=justified><size=36><color=black>Plants always think Flower Pot is just a \"pot,\" but in reality, Flower Pot is a \"flower\" that just looks like a \"pot.\" Look, that little sprout is the bud of a flower.</color>",
-            "info": "<size=36>Allows planting plants above it.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enables plants to be planted on bare ground/roof.\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Alt key while fusing to forcibly fuse with Flower Pot. (with Better Fusion Cassidy mod, included by default)</color>",
+            "info": "<size=36>Allows planting plants above it.\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Enables plants to be planted on bare ground/roof.\n<color=black>•</color> Short plant (evades straight-firing projectiles).\n<color=black>Fusion Priority: </color><color=#8B0000>Lowest, hold Left Alt key while fusing to forcibly fuse with Flower Pot. (requires BetterFusionSuite mod, included by default)</color>",
             "cost": "<size=36>Cost: <color=#8B0000>25</color>\nRecharge: <color=#8B0000>7.5s</color>"
         },
         {
@@ -279,6 +279,13 @@
             "introduce": "<align=justified><size=36><color=black>\"Where there's a will, there’s a wall.\" That's Bamblock's motto. \"Back when I first sprouted, folks said I was just a pesky pebble underfoot. But I kept growing, and now I've become an official traffic cone.\" If you ask how long ago that was? \"Three days,\" he says.</color>",
             "info": "<size=36>Damages incoming zombies at the cost of his own HP.\n\n<color=black>Toughness: </color><color=#8B0000>1500</color>\n<color=black>Special: </color>\n<color=black>•</color><color=#8B0000> Other plants cannot absorb damage for Bamblocks.</color>\n<color=black>•</color><color=#8B0000> Immune to crush.\n<color=black>•</color><color=#8B0000> On contact with a zombie, instantly defeats the zombie if the zombie's HP is less than or equal to his own, but takes damage equal to that zombie's HP. Against zombies with higher HP, deals damage equal to his own HP to the zombie and destroys himself.</color>",
             "cost": "<size=36>Cost: <color=#8B0000>50</color>\nRecharge: <color=#8B0000>15s</color>"
+        },
+        {
+            "seedType": 228,
+            "name": "Necroflame",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000></color>",
+            "cost": "<size=36>Cost: <color=#8B0000></color>\nRecharge: <color=#8B0000></color>"
         },
         {
             "seedType": 229,
@@ -485,6 +492,13 @@
         },
         {
             "seedType": 303,
+            "name": "Mimic-rye",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=blue>Unsealed form of Selene Cabbage</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Princess Solarnova</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> </color>",
+            "cost": "\n"
+        },
+        {
+            "seedType": 304,
             "name": "Enlightened Solarnova",
             "introduce": "<align=justified><size=36><color=black></color>",
             "info": "<size=36>\n\n<color=blue>Unsealed form of Selene Cabbage</color>\n<color=#4A2900>Usage Condition: Harvest Mode | Legendary Odyssey Plant: Special form of Princess Solarnova</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> \n<color=black>•</color> </color>",
@@ -918,6 +932,13 @@
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Minnow-shroom + Kraken-shroom</color>"
         },
         {
+            "seedType": 961,
+            "name": "Buck-strike Squadron",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=#4A2900>Usage Condition: Odyssey Mode | Unlockable</color>\n<color=black>Damage: </color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>\n<color=black>Odyssey Modifiers:</color>\n<color=#8B0000>1. \n2. </color>",
+            "cost": "\n<size=36>Conversion Formula: <color=#8B0000>Magnet-shroom <-> Blover</color>"
+        },
+        {
             "seedType": 1000,
             "name": "Solar-shooter",
             "introduce": "<align=justified><size=36><color=black>\"Actually, the Sunflower behind me is my sister,\" Solar-shooter explained to everyone. \"We've been inseparable since birth. She loves producing Sun, and I destroy zombies on her behalf.\" But everyone knows the truth: the cheerful Pea brother is a total siscon. After all, every zombie that gets near his sister mysteriously ends up vaporized by sunlight.</color></size>",
@@ -1208,7 +1229,7 @@
             "seedType": 1041,
             "name": "Cryonic-shroom",
             "introduce": "<align=justified><size=36><color=black>A frosty beauty? An untouchable flower? Cryonic-shroom couldn't care less. She quietly took care of the frosty ornament on her head, always ready to hand her Frost Tall-nut headgear to the zombies at any time. \"They'll appreciate the chill vibe,\" she remarks coolly.</color></size>",
-            "info": "<size=36>When a zombie eats a Cryonic-shroom, it will transform into a Frost Tall-nut Zombie that will fight for you.\n\n<color=black>Special: </color><color=#8B0000>Upon contact turns a zombie into a Frost Tall-nut Zombie that will fight for you. Also freezes the full field.</color></size>",
+            "info": "<size=36>When a zombie eats a Cryonic-shroom, it will transform into a Frost Tall-nut Zombie that will fight for you.\n\n<color=black>Special: </color><color=#8B0000>Upon being bitten turns the zombie into a Hypnotized Frost Tall-nut Zombie and freezes the full field.</color></size>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Ice-shroom</color>"
         },
         {
@@ -3245,22 +3266,36 @@
             "seedType": 1332,
             "name": "Black Cherry",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Damage: 20×6/1.5s</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
+            "info": "<size=36>\n\n<color=black>Damage: 1800 (Cremator)</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Triggers a Cherry Bomb explosion on fusion, and explodes like a Doom-shroom after 1.5s.\n<color=black>•</color> The Doom-shroom blast deals 1800 base Cremator damage, increasing by 300 for each zombie caught in the initial Cherry Bomb explosion..</color>",
             "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Doom-shroom</color>"
         },
         {
             "seedType": 1333,
-            "name": "Sea-shell",
+            "name": "Catalyst-shroom",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Pumpkin</color>"
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>Upon being bitten turns the zombie into a Hypnotized Explode-o-shooter Zombie.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Hypno-shroom</color>"
         },
         {
             "seedType": 1334,
-            "name": "Catalyst-shroom",
+            "name": "Sea-shell",
             "introduce": "<align=justified><size=36><color=black></color>",
-            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> \n<color=black>•</color> </color>",
-            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Cherry Bomb + Hypno-shroom</color>"
+            "info": "<size=36>\n\n<color=black>Toughness: 4000</color><color=#8B0000></color>\n<color=black>Special: </color><color=#8B0000>Land-only plant. Can be fed Sea-shroom seed packets to heal by 1/3 max HP.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Sea-shroom > Pumpkin</color>"
+        },
+        {
+            "seedType": 1335,
+            "name": "Hypno Chomper",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Damage: Insta-kill (Devour)</color><color=#8B0000></color>\n<color=black>Digestion Time: </color><color=#8B0000>12s</color>\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Only targets Hypnotized Zombies and drops a Hypno-shroom seed packet as soon as the Zombie is devoured.\n<color=black>•</color> When bitten, hypnotizes the attacker, then reverts to a Chomper.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Chomper + Hypno-shroom</color>"
+        },
+        {
+            "seedType": 1335,
+            "name": "Hypno Pepper",
+            "introduce": "<align=justified><size=36><color=black></color>",
+            "info": "<size=36>\n\n<color=black>Special: </color><color=#8B0000>\n<color=black>•</color> Hypnotizes all zombies with less than 900 HP in its lane.\n<color=black>•</color> Deals 1800 Cremator damage to all other zombies in its lane.</color>",
+            "cost": "\n<size=36>Fusion Formula: <color=#8B0000>Hypno-shroom + Jalapeno</color>"
         },
         {
             "seedType": 350,
