@@ -1,6 +1,5 @@
 {
   "-------Main UI": "Main UI-------",
-  "主菜单(.*)": "Main Menu{0}",
   "^(\\d+)轮": "{0} Rounds",
   "^开发人员名单\\s+": "<size=16>Credits\nProgram, Director: 蓝飘飘fly\nAnimation: 蓝飘飘fly\nArtist, Visual Director: 机鱼吐司\nVideo Editor: 梦珞\nAnimation Helper: 射命丸文\nArt Helper: 蓝蝶</size>",
   "第(\\d+)已完成": "Level {0} Completed",
